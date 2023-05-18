@@ -1,5 +1,5 @@
 <h1 align="center"> Alura Training </h1>
-![logo da alura](https://www.alura.com.br/assets/img/alura-logo-white.1647533642.svg)
+![logo da alura](https://www.alura.com.br/assets/img/alura-logo-white.1647533642.svg) 
 <p align="center">
 <img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
 </p>
